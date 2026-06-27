@@ -60,6 +60,9 @@ Through this project, I gained hands-on experience in:
 * 🚀 Cloud Deployment Fundamentals
 * 🏗️ Basic Cloud Infrastructure Management
 
+
+# screenshot 📷:
+![screenshot2](Screenshot%20%2878%29.png)
 ---
 
 ## 🎯 Internship Task
