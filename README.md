@@ -44,6 +44,9 @@ This project demonstrates the deployment of a **static portfolio website** using
 
 👉 https://akshit-rawat-portfolio.s3.us-east-1.amazonaws.com/index.html
 
+
+# screenshot 📷
+![screenshot](frontend.png)
 ---
 
 ## 📚 Learning Outcomes
